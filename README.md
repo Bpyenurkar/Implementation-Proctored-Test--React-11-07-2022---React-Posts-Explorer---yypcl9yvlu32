@@ -1,6 +1,6 @@
 # React routing 
-
-
+Tech stack:html,css,reactjs
+Project Host:https://fabulous-horse-mithlesh.netlify.app/
 
 1) Make a <code>Loader</code> component which contains a div with <code>id="loader"</code> and text inside it "Loading...".
 Display it each time a network request is in progress.
